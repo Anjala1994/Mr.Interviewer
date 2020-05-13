@@ -1,2 +1,15 @@
-# Mr.Interviewer
-Interviewing chat bot built using the help of the IBM Watson Assistant which is available on the IBM Cloud catalog. We developed the engine with the knowledge of intents, entities and dialogs to keep track of how the flow of the conservation occurs in real time. 
+# Team Project: Mock Interview Chatbot
+
+## Team - Group 3
+
+## Team Members:
+1. Varun Potlacheruvu
+2. Tushar Sharma
+3. Anjala Thulasiram
+4. Renu Dighe
+
+## Project Description
+
+Designed a Chatbot with the help of IBM Watson Assistant
+Available to use via the Bluemix.net link on the IBM cloud
+Also integrated on Slack and Facebook Messenger.
